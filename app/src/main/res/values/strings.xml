@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Google Cash Sample</string>
+    <string name="message_to_cast">Message to Cast&#8230;</string>
+    <string name="media_route_menu_title">Play on&#8230;</string>
+    <string name="instructions">Talk to me</string>
+    <string name="cast_app_id" translatable="false">794B7BBF</string>
+    <string name="cast_namespace" translatable="false">urn:x-cast:com.google.cast.sample.helloworld</string>
+    <string name="action_settings">Settings</string>
+</resources>
